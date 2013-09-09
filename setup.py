@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = 'renormimg',
-    version = '0.0.1',
+    version = '0.2',
     author = 'Rich Wareham',
     author_email = 'rjw57@cantab.net',
     description = 'Renormalise a set of images on the command line',
