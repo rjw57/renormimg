@@ -8,7 +8,7 @@ setup(
     author = 'Rich Wareham',
     author_email = 'rjw57@cantab.net',
     description = 'Renormalise a set of images on the command line',
-    long_description = open('README.md').read(),
+    long_description = open('README.rst').read(),
     license = 'MIT',
     packages = find_packages(),
     entry_points = { 'console_scripts': [
